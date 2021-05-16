@@ -1,2 +1,0 @@
-# bmqs
-bookmark quick search
